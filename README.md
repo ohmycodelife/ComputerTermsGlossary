@@ -11,7 +11,8 @@
 |Database		 | Verilənlər bazası|
 |Big Data 		 |Böyük Həcmli Verilənlər|
 |Network		 |Şəbəkə|
-|Operating System|Əməliyyat Sistem|
+|Operating System|Əməliyyat Sistemi|
+|Routing		 |Yönləndirmə |
 
 
 
@@ -20,4 +21,4 @@
 
 
 ------
-Check the correct spelling [azerdict](http://azerdict.com/)
+Check the spelling [azerdict](http://azerdict.com/)
