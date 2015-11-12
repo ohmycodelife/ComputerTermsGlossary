@@ -5,12 +5,13 @@
 
 ### Terms - Terminlər
 
-| English| Azərbaycanca|
-| ------------- |:-------------:|
-|Data Science | Verilənlər Elmi|
-|Database| Verilənlər bazası|
-|Big Data |Böyük Həcmli Verilənlər|
-|||
+| English		 | Azərbaycanca|
+| -------------  |:-------------:|
+|Data Science    | Verilənlər Elmi|
+|Database		 | Verilənlər bazası|
+|Big Data 		 |Böyük Həcmli Verilənlər|
+|Network		 |Şəbəkə|
+|Operating System|Əməliyyat Sistem|
 
 
 
